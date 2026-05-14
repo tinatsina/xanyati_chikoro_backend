@@ -17,7 +17,7 @@ public class DragonController {
 
         dragonList.add(
             new Dragon(UUID.randomUUID(),
-            "Slyrak",
+
             new Ability("Lava","Firey Blow", "Glorious Blaze", false),
             Element.FIRE,
             23,
