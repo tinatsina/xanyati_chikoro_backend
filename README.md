@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-**Chikoro Backend** is a modern, scalable School Management System backend API built with **Spring Boot 4.0.2** and **Java 21**. This API provides comprehensive management features for educational institutions, including student management, course administration, attendance tracking, and more.
+**Chikoro Backend**It is a modern, scalable School Management System backend API built with **Spring Boot 4.0.2** and **Java 21**. This API provides comprehensive management features for educational institutions, including student management, course administration, attendance tracking, and more.
 
 ## 🚀 Tech Stack
 
